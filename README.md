@@ -8,7 +8,7 @@ Questo progetto universitario ha l'obiettivo di applicare tecniche di Machine Le
 
 Il dataset utilizzato e' l'**Adult Census Income Dataset** (UCI Machine Learning Repository), composto da circa 32.561 record con le seguenti caratteristiche principali:
 
-- **Variabili**: age, workclass, fnlwgt, education, education-num, marital-status, occupation, relationship, race, sex, capital-gain, capital-loss, hours-per-week, native-country
+- **Variabili**: age, workclass, fnlwgt, education, education-num, marital-status, occupation, relationship, race, sex, capital-gain, capital-loss, hours-per-week, native-country.
 - **Target**: income (<=50K / >50K)
 - **Valori mancanti**: presenti nelle colonne `workclass`, `occupation`, `native.country` (indicati con `?`), rimossi in fase di preprocessing
 - **Record dopo pulizia**: circa 30.162
