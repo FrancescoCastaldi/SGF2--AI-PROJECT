@@ -101,7 +101,7 @@ E' stato condotto uno studio di ablation sul modello Random Forest per valutare 
 
 - Il modello Random Forest ottiene le prestazioni migliori in termini di accuratezza (~82%)
 - L'analisi della fairness evidenzia disparita' significative legate al sesso e alla razza, con valori di Disparate Impact ben al di sotto della soglia di 0.80
-- Lo studio sull'importanza delle feature mostra che lo stato civile e il guadagno di capitale sono i predittori piu' rilevanti per la stima del reddito
+- Lo studio sull'importanza delle feature mostra che lo stato civile e il guadagno di capitale sono i predittori piu' rilevanti per la stima del reddito .
 
 ## Licenza
 
